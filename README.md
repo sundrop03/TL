@@ -1,4 +1,4 @@
 # Transfer-learning-in-the-Actuarial-Domain
-This repository contains data and codes for the "Transfer learning in the Actuarial Domain: Foundation and Applications" paper.
+This repository contains data and codes for the "Transfer learning in the Actuarial Domain: Foundations and Applications" paper.
 
-youngsun.kim@wisc.edu
+sundrop03@gmail.com
